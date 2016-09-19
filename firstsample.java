@@ -37,6 +37,7 @@ public class firstsample{
 		if(weekday != Calendar.SUNDAY)
 			System.out.println();
 		NumberFormat currencyFormatter = NumberFormat.getCurrencyInstance();
+		
 	}
 }
 
