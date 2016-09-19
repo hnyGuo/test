@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.util.*;
-import java.text.NumberFormat;
 public class firstsample{
 	public static void main(String[] args){
 		//construct d as current data
@@ -38,7 +37,6 @@ public class firstsample{
 		if(weekday != Calendar.SUNDAY)
 			System.out.println();
 		NumberFormat currencyFormatter = NumberFormat.getCurrencyInstance();
-		
 	}
 }
 
